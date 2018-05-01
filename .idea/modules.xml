@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJoinMybatis.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJoinMybatis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJoinMybatis_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJoinMybatis_main.iml" group="SpringJoinMybatis" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpringJoinMybatis_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SpringJoinMybatis_test.iml" group="SpringJoinMybatis" />
+    </modules>
+  </component>
+</project>
